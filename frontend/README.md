@@ -10,7 +10,7 @@ Interfaz de gestión de menú y reservaciones para la pastelería **Pan & Brunch
 
 | Nombre | Matrícula | Carrera | Materia | Rol |
 |--------|-----------|---------|---------|-----|
-| Emmanuel | 210785 | Ingeniería en Sistemas Computacionales | Apps con Bibliotecas JS | Desarrollador único |
+| Cristofer Emmanuel De La Cruz Aparicio | 210785 | Ingeniería en Sistemas Computacionales | Apps con Bibliotecas JS | Desarrollador unico |
 
 ---
 
@@ -112,4 +112,4 @@ frontend/
 
 ---
 
-*Materia: Apps con Bibliotecas JS — Matricula: 210785*
+*Materia: Apps con Bibliotecas JS — Nombre: Cristofer Emmanuel de la Cruz Aparicio - Matricula: 210785*
