@@ -1,0 +1,22 @@
+/* index.css - Estilos globales minimos (W3.CSS se carga desde CDN en index.html) */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f5f0;
+}
+
+.status-pendiente  { color: #e65100; font-weight: bold; }
+.status-confirmada { color: #2e7d32; font-weight: bold; }
+.status-cancelada  { color: #c62828; font-weight: bold; }
+
+.img-card {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+}
+
+.nav-brand {
+    font-size: 1.3rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}

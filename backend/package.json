@@ -1,0 +1,11 @@
+{
+  "name": "pan-brunch-json-server",
+  "version": "1.0.0",
+  "description": "Backend simulado con json-server para Pan & Brunch",
+  "scripts": {
+    "back": "node \"%APPDATA%/npm/node_modules/json-server/lib/cli/bin.js\" db/datos.json --port 3001"
+  },
+  "keywords": [],
+  "author": "Emmanuel (210785)",
+  "license": "ISC"
+}

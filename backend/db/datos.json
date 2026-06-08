@@ -1,0 +1,246 @@
+{
+  "categorias": [
+    {
+      "nombre": "Pasteles",
+      "descripcion": "Pasteles artesanales para toda ocasión",
+      "imagen_url": "https://picsum.photos/seed/pasteles/400/300",
+      "activa": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Bebidas",
+      "descripcion": "Bebidas calientes y frías",
+      "imagen_url": "https://picsum.photos/seed/bebidas/400/300",
+      "activa": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Desayunos",
+      "descripcion": "Desayunos completos para empezar el día",
+      "imagen_url": "https://picsum.photos/seed/desayunos/400/300",
+      "activa": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Postres",
+      "descripcion": "Postres y dulces artesanales",
+      "imagen_url": "https://picsum.photos/seed/postres/400/300",
+      "activa": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Panes Artesanales",
+      "descripcion": "Panes horneados diariamente",
+      "imagen_url": "https://picsum.photos/seed/panes/400/300",
+      "activa": 1
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "id_categoria": 1,
+      "nombre": "Pastel de Chocolate",
+      "descripcion": "Pastel húmedo de chocolate con ganache",
+      "precio": 350,
+      "imagen_url": "https://www.grupochantilly.com.mx/wp-content/uploads/2023/06/Pasteles-para-papa-1.png",
+      "disponible": 1
+    },
+    {
+      "id": 2,
+      "id_categoria": 1,
+      "nombre": "Pastel de Zanahoria",
+      "descripcion": "Pastel esponjoso con betún de queso crema",
+      "precio": 320,
+      "imagen_url": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/E227AB55-C6D3-414D-9834-D55557EA49F9/Derivates/2e9af109-87ca-42f7-a2be-08afd08bc9ca.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 3,
+      "id_categoria": 1,
+      "nombre": "Pastel Red Velvet",
+      "descripcion": "Pastel aterciopelado rojo con crema",
+      "precio": 380,
+      "imagen_url": "https://sweetup.mx/cdn/shop/files/pastelredvelvet.jpg?v=1695317707&width=990",
+      "disponible": 1
+    },
+    {
+      "id": 4,
+      "id_categoria": 2,
+      "nombre": "Café Americano",
+      "descripcion": "Café negro espresso con agua caliente",
+      "precio": 55,
+      "imagen_url": "https://www.somoselcafe.com.ar/img/novedades/47.webp",
+      "disponible": 1
+    },
+    {
+      "id": 5,
+      "id_categoria": 2,
+      "nombre": "Matcha Latte",
+      "descripcion": "Té verde matcha con leche espumada",
+      "precio": 85,
+      "imagen_url": "https://ucarecdn.com/6aaa3bb8-8a69-41a1-9f8a-7c9a7380c4d6/-/crop/4016x5425/0%2C296/-/preview/-/scale_crop/992x1340/-/quality/smart_retina/-/format/preserve/",
+      "disponible": 1
+    },
+    {
+      "id": 6,
+      "id_categoria": 2,
+      "nombre": "Smoothie de Frutos Rojos",
+      "descripcion": "Mezcla de fresas, frambuesas y arándanos",
+      "precio": 90,
+      "imagen_url": "https://www.nattahometaste.com/wp-content/uploads/2020/01/smoothie-de-frutos-rojos-rico-en-antioxidantes.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 7,
+      "id_categoria": 3,
+      "nombre": "Eggs Benedict",
+      "descripcion": "Huevos pochados sobre muffin inglés con salsa holandesa",
+      "precio": 145,
+      "imagen_url": "https://www.allrecipes.com/thmb/CjrK2YaITW3sL1SdTtJIXDg-stc=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/17205-eggs-benedict-DDMFS-4x3-a0042d5ae1da485fac3f468654187db0.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 8,
+      "id_categoria": 3,
+      "nombre": "Hotcakes de Blueberry",
+      "descripcion": "Torre de hotcakes con blueberries y maple",
+      "precio": 110,
+      "imagen_url": "https://www.recipes.com.au/sites/default/files/jims-blueberry-hotcakes-featured-image.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 9,
+      "id_categoria": 3,
+      "nombre": "Chilaquiles Verdes",
+      "descripcion": "Chilaquiles con salsa verde, crema y queso",
+      "precio": 125,
+      "imagen_url": "https://cdn7.kiwilimon.com/recetaimagen/40551/640x640/54099.jpg.webp",
+      "disponible": 1
+    },
+    {
+      "id": 10,
+      "id_categoria": 4,
+      "nombre": "Cheesecake de Fresa",
+      "descripcion": "Cheesecake cremoso con coulis de fresa",
+      "precio": 95,
+      "imagen_url": "https://amantesdelacocina.com/wp-content/uploads/2013/03/CheesecakeFresa.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 11,
+      "id_categoria": 4,
+      "nombre": "Brownie con Helado",
+      "descripcion": "Brownie tibio de chocolate con helado de vainilla o fresa",
+      "precio": 85,
+      "imagen_url": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/6cfc2eba-569a-4d1d-8e78-c1a5e75c3f5e/Derivates/bca64868-4da5-4850-b0b6-ea1b486d1480.jpg",
+      "disponible": 1
+    },
+    {
+      "id": 12,
+      "id_categoria": 5,
+      "nombre": "Pan de Masa Madre",
+      "descripcion": "Pan artesanal de fermentación lenta",
+      "precio": 65,
+      "imagen_url": "https://osterstatic.reciperm.com/webp/10399.webp",
+      "disponible": 1
+    },
+    {
+      "id": 13,
+      "id_categoria": 5,
+      "nombre": "Croissant de Mantequilla",
+      "descripcion": "Croissant hojaldrado estilo francés",
+      "precio": 45,
+      "imagen_url": "https://culinaria.group/site/media/Croissant-clasico-mantequilla-60g-402119.jpg",
+      "disponible": 1
+    }
+  ],
+  "reservaciones": [
+    {
+      "id": 1,
+      "nombre_cliente": "Ana García López",
+      "telefono": "9381234567",
+      "id_ocasion": 1,
+      "nombre_ocasion": "Cumpleaños",
+      "num_personas": 8,
+      "fecha": "2026-06-15",
+      "hora": "14:00",
+      "alergias": null,
+      "status": "pendiente"
+    },
+    {
+      "id": 2,
+      "nombre_cliente": "Carlos Pérez Ruiz",
+      "telefono": "9387654321",
+      "id_ocasion": 2,
+      "nombre_ocasion": "Aniversario",
+      "num_personas": 2,
+      "fecha": "2026-06-16",
+      "hora": "13:30",
+      "alergias": "Nueces",
+      "status": "confirmada"
+    },
+    {
+      "id": 3,
+      "nombre_cliente": "Laura Martínez Soto",
+      "telefono": "9382345678",
+      "id_ocasion": 3,
+      "nombre_ocasion": "Festejo general",
+      "num_personas": 15,
+      "fecha": "2026-06-17",
+      "hora": "12:00",
+      "alergias": null,
+      "status": "pendiente"
+    },
+    {
+      "id": 4,
+      "nombre_cliente": "Roberto Hernández",
+      "telefono": "9383456789",
+      "id_ocasion": 4,
+      "nombre_ocasion": "Reunión de trabajo",
+      "num_personas": 5,
+      "fecha": "2026-06-18",
+      "hora": "10:00",
+      "alergias": "Gluten",
+      "status": "cancelada"
+    },
+    {
+      "id": 5,
+      "nombre_cliente": "Sofia Torres Díaz",
+      "telefono": "9384567890",
+      "id_ocasion": 5,
+      "nombre_ocasion": "Graduación",
+      "num_personas": 6,
+      "fecha": "2026-06-20",
+      "hora": "15:00",
+      "alergias": null,
+      "status": "confirmada"
+    }
+  ],
+  "ocasiones": [
+    {
+      "id": 1,
+      "nombre": "Cumpleaños"
+    },
+    {
+      "id": 2,
+      "nombre": "Aniversario"
+    },
+    {
+      "id": 3,
+      "nombre": "Festejo general"
+    },
+    {
+      "id": 4,
+      "nombre": "Reunión de trabajo"
+    },
+    {
+      "id": 5,
+      "nombre": "Graduación"
+    },
+    {
+      "id": 6,
+      "nombre": "Otro"
+    }
+  ]
+}
